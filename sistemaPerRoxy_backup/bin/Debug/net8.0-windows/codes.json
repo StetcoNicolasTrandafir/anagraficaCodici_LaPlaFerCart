@@ -1,0 +1,446 @@
+{
+  "020104": {
+      "descrizione": "Rifiuti plastici (ad esclusione degli imballaggi)",
+      "recOp": "R13-R3",
+      "trattabili_ton": 10,
+      "trattabili_mc": 33.3,
+      "stoccabili_ton": 10,
+      "stoccabili_mc": 33.3
+  },
+  "030308": {
+      "descrizione": "Scarti della selezione di carta e cartone destinati ad essere riciclati",
+      "recOp": "R13-R3",
+      "trattabili_ton": 50,
+      "trattabili_mc": 125,
+      "stoccabili_ton": 50,
+      "stoccabili_mc": 125
+  },
+  "040108": {
+      "descrizione": "Cuoio conciato (scarti, cascami, ritagli, polveri di lucidatura) contenenti cromo",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 10,
+      "stoccabili_mc": 10
+  },
+  "040109": {
+      "descrizione": "Rifiuti delle operazioni di confezionamento e finitura",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 150,
+      "stoccabili_mc": 150
+  },
+  "040209": {
+      "descrizione": "Rifiuti da materiali compositi (fibre impregnate, elastomeri)",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 10,
+      "stoccabili_mc": 10
+  },
+  "040221": {
+      "descrizione": "Rifiuti da fibre tessili grezze",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 30,
+      "stoccabili_mc": 30
+  },
+  "040222": {
+      "descrizione": "Rifiuti da fibre tessili lavorate",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 700,
+      "stoccabili_mc": 700
+  },
+  "070213": {
+      "descrizione": "Rifiuti plastici",
+      "recOp": "R13-R3",
+      "trattabili_ton": 2200,
+      "trattabili_mc": 7333.3,
+      "stoccabili_ton": 2200,
+      "stoccabili_mc": 7333.3
+  },
+  "070299": {
+      "descrizione": "Rifiuti non specificati altrimenti (scarti di plastica e resine non compresi in altri codici, in particolare scarti di poliuretano espanso)",
+      "recOp": "R13-R3",
+      "trattabili_ton": 20,
+      "trattabili_mc": 66.7,
+      "stoccabili_ton": 20,
+      "stoccabili_mc": 66.7
+  },
+  "120101": {
+      "descrizione": "Limatura e trucioli di materiali ferrosi",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 5,
+      "stoccabili_mc": 0.7
+  },
+  "120102": {
+      "descrizione": "Polveri e particolato di materiali ferrosi",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 200,
+      "stoccabili_mc": 28.6
+  },
+  "120103": {
+      "descrizione": "Limatura e trucioli di materiali non ferrosi",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 20,
+      "stoccabili_mc": 6.7
+  },
+  "120104": {
+      "descrizione": "Polveri e particolato di materiali non ferrosi",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 20,
+      "stoccabili_mc": 6.7
+  },
+  "120105": {
+      "descrizione": "Limatura e trucioli di materiali plastici",
+      "recOp": "R13-R3",
+      "trattabili_ton": 200,
+      "trattabili_mc": 666.7,
+      "stoccabili_ton": 200,
+      "stoccabili_mc": 666.7
+  },
+  "120117": {
+      "descrizione": "Materiale abrasivo di scarto diverso da quello di cui alla voce 120116",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 50,
+      "stoccabili_mc": 100
+  },
+  "120199": {
+      "descrizione": "Rifiuti non specificati altrimenti (rifiuti costituiti da pannelli sandwich con materiale isolante interno tipo polistirolo poliuretano o altro materiale non pericoloso, lamiere metalliche esterne cascami di materiali ferrosi da lavorazioni industriali ed artigianali)",
+      "recOp": "R13",
+      "trattabili_ton": null,
+      "trattabili_mc": null,
+      "stoccabili_ton": 100,
+      "stoccabili_mc": 250
+  },
+  "150101": {
+      "descrizione": "Imballaggi in carta e cartone",
+      "recOp": "R13-R3",
+      "trattabili_ton": 12000,
+      "trattabili_mc": 30000,
+      "stoccabili_ton": 12000,
+      "stoccabili_mc": 30000
+  },
+  "150102": {
+      "descrizione": "Imballaggi in plastica",
+      "recOp": "R13-R3",
+      "trattabili_ton": 2200,
+      "trattabili_mc": 7333.3,
+      "stoccabili_ton": 2200,
+      "stoccabili_mc": 7333.3
+  }
+  ,
+  "150104": {
+      "descrizione": "Imballaggi metallici",
+      "recOp": "R13",
+      "trattabili_ton": 60,
+      "trattabili_mc": 8.6,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "150105": {
+      "descrizione": "Imballaggi in materiali compositi",
+      "recOp": "R13-R3",
+      "trattabili_ton": 100,
+      "trattabili_mc": 250,
+      "stoccabili_ton": 100,
+      "stoccabili_mc": 250
+  },
+  "150106": {
+      "descrizione": "Imballaggi in materiali misti",
+      "recOp": "R13-R3",
+      "trattabili_ton": 8000,
+      "trattabili_mc": 20000,
+      "stoccabili_ton": 8000,
+      "stoccabili_mc": 20000
+  },
+  "150107": {
+      "descrizione": "Imballaggi in vetro",
+      "recOp": "R13",
+      "trattabili_ton": 45,
+      "trattabili_mc": 18,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "150109": {
+      "descrizione": "Imballaggi in materia tessile",
+      "recOp": "R13",
+      "trattabili_ton": 20,
+      "trattabili_mc": 20,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "150203": {
+      "descrizione": "Assorbenti, materiali filtranti, stracci ed indumenti protettivi diversi da quelli di cui alla voce 150202",
+      "recOp": "R13",
+      "trattabili_ton": 200,
+      "trattabili_mc": 200,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "160103": {
+      "descrizione": "Pneumatici fuori uso",
+      "recOp": "R13",
+      "trattabili_ton": 100,
+      "trattabili_mc": 500,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "160117": {
+      "descrizione": "Metalli ferrosi",
+      "recOp": "R13",
+      "trattabili_ton": 20,
+      "trattabili_mc": 2.9,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "160118": {
+      "descrizione": "Metalli non ferrosi",
+      "recOp": "R13",
+      "trattabili_ton": 10,
+      "trattabili_mc": 4,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "160119": {
+      "descrizione": "Plastica",
+      "recOp": "R13-R3",
+      "trattabili_ton": 50,
+      "trattabili_mc": 166.7,
+      "stoccabili_ton": 50,
+      "stoccabili_mc": 166.7
+  },
+  "160120": {
+      "descrizione": "Vetro",
+      "recOp": "R13",
+      "trattabili_ton": 10,
+      "trattabili_mc": 4,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "160122": {
+      "descrizione": "Componenti non specificati altrimenti (motori, cavi rivestiti, pezzi mobili di auto)",
+      "recOp": "R13",
+      "trattabili_ton": 50,
+      "trattabili_mc": 25,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "160214": {
+      "descrizione": "Apparecchiature fuori uso diverse da quelle di cui alle voci da 160209 a 160213",
+      "recOp": "R13",
+      "trattabili_ton": 150,
+      "trattabili_mc": 300,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "160216": {
+      "descrizione": "Componenti rimossi da apparecchiature fuori uso, diversi da quelli di cui alla voce 160215",
+      "recOp": "R13",
+      "trattabili_ton": 120,
+      "trattabili_mc": 240,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "160306": {
+      "descrizione": "Rifiuti organici diversi da quelli di cui alla voce 160305",
+      "recOp": "R13-R3",
+      "trattabili_ton": 50,
+      "trattabili_mc": 166.7,
+      "stoccabili_ton": 50,
+      "stoccabili_mc": 166.7
+  },
+  "170202": {
+      "descrizione": "Vetro",
+      "recOp": "R13",
+      "trattabili_ton": 60,
+      "trattabili_mc": 24,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "170203": {
+      "descrizione": "Plastica",
+      "recOp": "R13-R3",
+      "trattabili_ton": 20,
+      "trattabili_mc": 66.7,
+      "stoccabili_ton": 20,
+      "stoccabili_mc": 66.7
+  },
+  "170401": {
+      "descrizione": "Rame bronzo ottone",
+      "recOp": "R13",
+      "trattabili_ton": 50,
+      "trattabili_mc": 6.3,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "170402": {
+      "descrizione": "Alluminio",
+      "recOp": "R13",
+      "trattabili_ton": 300,
+      "trattabili_mc": 120,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "170403": {
+      "descrizione": "Piombo",
+      "recOp": "R13",
+      "trattabili_ton": 5,
+      "trattabili_mc": 0.5,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "170404": {
+      "descrizione": "Zinco",
+      "recOp": "R13",
+      "trattabili_ton": 5,
+      "trattabili_mc": 0.7,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "170405": {
+      "descrizione": "Ferro e acciaio",
+      "recOp": "R13",
+      "trattabili_ton": 700,
+      "trattabili_mc": 100,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "170406": {
+      "descrizione": "Stagno",
+      "recOp": "R13",
+      "trattabili_ton": 5,
+      "trattabili_mc": 0.7,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "170407": {
+      "descrizione": "Metalli misti",
+      "recOp": "R13",
+      "trattabili_ton": 150,
+      "trattabili_mc": 25,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "170411": {
+      "descrizione": "Cavi diversi da quelli di cui alla voce 170410",
+      "recOp": "R13",
+      "trattabili_ton": 40,
+      "trattabili_mc": 40,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+  "170604": {
+      "descrizione": "Materiali isolanti diversi da quelli di cui alle voci 170601 e 1706003",
+      "recOp": "R13",
+      "trattabili_ton": 150,
+      "trattabili_mc": 375,
+      "stoccabili_ton": null,
+      "stoccabili_mc": null
+  },
+
+
+
+
+
+  "191201": {
+      "descrizione": "Carta e cartone",
+      "recOp": "R13-R3 ",
+      "trattabili_ton":3000,
+      "trattabili_mc": 7500,
+      "stoccabili_ton":3000,
+      "stoccabili_mc":7500
+},
+  "191204": {
+    "descrizione": "plastica e gomma",
+    "recOp": "R13-R3 ",
+    "trattabili_ton":300,  
+    "trattabili_mc": 1000,
+    "stoccabili_ton":300,
+    "stoccabili_mc":1000
+},
+  "200101": {
+    "descrizione": "Carta e cartone",
+    "recOp": "R13-R3 ",
+    "trattabili_ton":650,  
+    "trattabili_mc": 1625,
+    "stoccabili_ton":650,
+    "stoccabili_mc":1625
+},
+  "200102": {
+    "descrizione": "vetro",
+    "recOp": "R13",
+    "trattabili_mc":null,
+    "trattabili_ton":null,
+    "stoccabili_mc":30,
+    "stoccabili_ton":75
+},
+  "200110": {
+    "descrizione": "abbigliamento",
+    "recOp": "R13",
+    "trattabili_mc": null,
+    "trattabili_ton":null,
+    "stoccabili_mc":30,
+    "stoccabili_ton":30
+},
+ "200111": {
+    "descrizione": "prodotti tessili",
+    "recOp": "R13",
+    "trattabili_mc": null,
+    "trattabili_ton":null,
+    "stoccabili_mc":100,
+    "stoccabili_ton":100
+},
+"200136": {
+    "descrizione": "apparecchiature elettriche ed elettroniche fuori uso diverse da quelle di cui alle voci 200121, 200123 e 200136 ",
+    "recOp": "R13",
+    "trattabili_mc": null,
+    "trattabili_ton":null,
+    "stoccabili_mc":100,
+    "stoccabili_ton":100
+
+},
+"200139": {
+    "descrizione": "Plastica",
+    "recOp": "R13-R3",
+    "trattabili_mc":50,
+    "trattabili_ton": 166.7,
+    "stoccabili_mc":50,
+    "stoccabili_ton":166.7
+
+},
+"200203": {
+   "descrizione": "alti rifiuti non biodegradabili",
+   "recOp": "R13",
+   "trattabili_mc": null,
+   "trattabili_ton":null,
+   "stoccabili_mc":500,
+   "stoccabili_ton":100
+},
+"200307": {
+    "descrizione": "rifiuti ingombranti",
+    "recOp": "R13",
+    "trattabili_mc": null,
+    "trattabili_ton":null,
+    "stoccabili_mc":30,
+    "stoccabili_ton":210
+    }
+}
+
+
+
+
